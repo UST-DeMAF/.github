@@ -1,4 +1,4 @@
-# UST-TAD (University of Stuttgart - Technology-Agnostic Deployments)
+# UST-DeMAF (University of Stuttgart - Technology-Agnostic Deployments)
 
 This project originates from the Master's Thesis of Marcel Weller at University of Stuttgart in 2021/2022.
 The title of the Master's Thesis is "Transformation of Technology-specific Deployment Models into Technology-Agnostic Deployment Models".
