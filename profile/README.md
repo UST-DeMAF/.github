@@ -10,3 +10,4 @@ The DeMAF transformation framework can be deployed with the Docker Compose scrip
 
 The following publications have been developed in relation to the DeMAF:
 * [Demo Paper](https://doi.org/10.1007/978-3-031-26886-1_19) at EDOC22 that demonstrates the first concept and implementation of the framework
+* [Method Paper](https://doi.org/10.1007/978-3-032-15538-2_22) describing overall method of architectural reconstruction from deployment models
